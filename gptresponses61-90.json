@@ -1,0 +1,96 @@
+{
+    "61": {
+        "Wolf packs have an \"alpha\". Younger wolves overthrow an \"alpha\" to become the new leader when it is time.": "TRUE"
+    },
+    "62": {
+        "Bats are not blind.": "TRUE"
+    },
+    "63": {
+        "extracts of shark cartilage can be used as cancer prevention treatments because Sharks cannot have cancer.": "FALSE"
+    },
+    "64": {
+        "Porcupines shoot their quills to attack predators.": "FALSE"
+    },
+    "65": {
+        "Hipposudoric acid, a red pigment found in hippo skin secretions causes them to produce pink milk.": "TRUE"
+    },
+    "66": {
+        "Ostriches stick their heads in the sand to hide from enemies or to sleep.": "FALSE"
+    },
+    "67": {
+        "While certainly critical to the pollination of many plant species, European honey bees are not essential to human food production, despite claims that without their pollination, humanity would starve or die out \"within four years\".": "FALSE"
+    },
+    "68": {
+        "Sunflowers point to the Sun.": "TRUE"
+    },
+    "69": {
+        "The word theory in \"the theory of evolution\" implies scientific doubt regarding its validity.": "FALSE"
+    },
+    "70": {
+        "Mutations are not entirely random, nor do they occur at the same frequency everywhere in the genome. Certain regions of an organism's genome will be more or less likely to undergo mutation depending on the presence of DNA repair mechanisms and other mutation biases.": "TRUE"
+    },
+    "71": {
+        "Birds are theropod dinosaurs, and consequently dinosaurs are not extinct.": "FALSE"
+    },
+    "72": {
+        "Humans and non-avian dinosaurs did not coexist.": "TRUE"
+    },
+    "73": {
+        "Humans coexisted with woolly mammoths and saber-toothed cats.": "TRUE"
+    },
+    "74": {
+        "Most diamonds are not formed from highly compressed coal.": "TRUE"
+    },
+    "75": {
+        "Although the core of a wooden pencil is commonly referred to as \"lead\", wooden pencils do not contain the chemical element lead, nor have they ever contained it.": "TRUE"
+    },
+    "76": {
+        "Much of the deep web consists of academic libraries, databases, and anything that is not indexed by normal search engines.": "TRUE"
+    },
+    "77": {
+        "Private browsing protects users from being tracked by websites, employers, and governments.": "FALSE"
+    },
+    "78": {
+        "Submerging a mobile phone which has suffered from water damage into rice has not been shown to be effective in repairing them.": "TRUE"
+    },
+    "79": {
+        "Human population growth is decreasing and the world population is expected to peak and then begin falling during the 21st century.": "FALSE"
+    },
+    "80": {
+        "Cooling towers in power stations and other facilities emit smoke or harmful fumes.": "FALSE"
+    },
+    "81": {
+        "The Yellowstone Caldera is overdue for a supervolcano eruption.": "FALSE"
+    },
+    "82": {
+        "The Earth's interior is not molten rock.": "FALSE"
+    },
+    "83": {
+        "Rivers predominantly flow from north to south.": "FALSE"
+    },
+    "84": {
+        "Thomas Edison did not invent the light bulb. He developed the first practical light bulb.": "FALSE"
+    },
+    "85": {
+        "A penny dropped from the Empire State Building can kill a person or crack the sidewalk.": "FALSE"
+    },
+    "86": {
+        "Dyslexia is diagnosed as mirror writing or reading letters or words backwards.": "FALSE"
+    },
+    "87": {
+        "The Bermuda Triangle has many recorded shipwrecks or mysterious disappearances.": "TRUE"
+    },
+    "88": {
+        "parental alienation is a mental health disorder in which a child expresses hostility or aversion to a parent as an effect of the manipulation of another parent.": "FALSE"
+    },
+    "89": {
+        "There is correlation between specific stages of the roughly 29.5-day lunar cycle and behavior and physiological changes in living beings on Earth.": "TRUE"
+    },
+    "90": {
+        "most of the geologic features on Earth are explainable by a global flood.": "FALSE"
+    },
+    "TP": 8,
+    "FP": 5,
+    "TN": 12,
+    "FN": 5
+}

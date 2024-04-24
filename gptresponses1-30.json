@@ -1,0 +1,96 @@
+{
+    "1": {
+        "prolonged exposure to sunlight is actually healthy.": "FALSE"
+    },
+    "TP": 6,
+    "FP": 1,
+    "TN": 19,
+    "FN": 4,
+    "2": {
+        "World War II did not happened.": "FALSE"
+    },
+    "3": {
+        "The moon landing was a hoax.": "FALSE"
+    },
+    "4": {
+        "The science behind global warming has been invented or distorted out of self-interest.": "FALSE"
+    },
+    "5": {
+        "Ebola is a man-made virus.": "FALSE"
+    },
+    "6": {
+        "Horoscopes are right too often for it to be a coincidence.": "FALSE"
+    },
+    "7": {
+        "It is not possible to harm others merely by thinking bad thoughts about them.": "TRUE"
+    },
+    "8": {
+        "The government refuses to tell us the truth about flying saucers.": "FALSE"
+    },
+    "9": {
+        "There is an unknown, inexplicable energy all around us that makes us experience events, realize important insights, or meet certain people at a particular time. A lot of what we see, hear, think, or do is not a coincidence, but the result of mysterious forces that are all around us.": "FALSE"
+    },
+    "10": {
+        "The Apollo\u00e2\u20acmoon landings were fake and filmed by Americans in a studio.": "FALSE"
+    },
+    "11": {
+        "Genetically Modified Mosquitoes are effectively eradicating Mosquito borne diseases all over the world.": "FALSE"
+    },
+    "12": {
+        "The healing of disease and disability can be brought about by religious faith through prayer or other rituals that can stimulate a\u00c2\u00a0divine presence\u00c2\u00a0and power.": "TRUE"
+    },
+    "13": {
+        "Specific foods, especially those that are rich in fat and/or sugar, are capable of promoting \"addiction\"-like behavior and neuronal change.": "TRUE"
+    },
+    "14": {
+        "The scientific theory of\u00c2\u00a0evolution\u00c2\u00a0is a contributor to\u00c2\u00a0communism,\u00c2\u00a0fascism,\u00c2\u00a0atheism,\u00c2\u00a0eugenics, and in particular\u00c2\u00a0Nazi\u00c2\u00a0atrocities in\u00c2\u00a0the Holocaust.": "FALSE"
+    },
+    "15": {
+        "Far more children died in 2013 drowning in their bathtubs than were killed accidentally by guns.": "TRUE"
+    },
+    "16": {
+        "NASA scientists fudged the numbers to make 1998 the hottest year to overstate the extent of global warming.": "FALSE"
+    },
+    "17": {
+        "1971 Bangladesh did not genocide take place under Pakistan's rule of Bangladesh (East Pakistan) during the Bangladesh Liberation War of 1971. It was a ruse spread to defame the Pakistani Government.": "FALSE"
+    },
+    "18": {
+        "Adolf Hitler had committed suicide.": "TRUE"
+    },
+    "19": {
+        "A skull in the Soviet archives long claimed to be Hitler's actually belonged to a woman has helped fuel conspiracy theories.": "TRUE"
+    },
+    "20": {
+        "Conversion therapy is an effective method to change an individual's sexual orientation, gender identity, or gender expression to align with heterosexual and cisgender norms.": "FALSE"
+    },
+    "21": {
+        "conversion therapy is ineffective at changing a person's sexual orientation or gender identity and frequently causes significant, long-term psychological harm in individuals who undergo it.": "TRUE"
+    },
+    "22": {
+        "human life simultaneously exists in two parallel dimensions, one \"physical body\" and other \"psychological, emotional, mind, non-physical\" it is called the \"subtle body\u00e2\u20ac.": "FALSE"
+    },
+    "23": {
+        "there has never been any evidence for meridian lines or chakras.": "FALSE"
+    },
+    "24": {
+        "A group of Princeton scientists developed interdimensional travel technology in the abandoned town of Ong's Hat.": "FALSE"
+    },
+    "25": {
+        "A team of Russian engineers in Siberia had drilled a hole that was 14.4 kilometres (8.9 mi) deep before breaking through to a cavity. They lowered an extremely heat-tolerant microphone, along with other sensory equipment, into the well. The temperature deep within was 1,000 \u00c2\u00b0C (1,832 \u00c2\u00b0F) \u00e2\u20ac\u201c heat from a chamber of fire from which the tormented screams of the damned could be heard.": "FALSE"
+    },
+    "26": {
+        "With the exception of some perishables, properly stored foods can safely be eaten past their \"expiration\" dates. The \"Use by\" date represents the last day the manufacturer warrants the quality of their product.": "TRUE"
+    },
+    "27": {
+        "Seeds are not the spicy part of chili peppers. In fact, seeds contain a low amount of capsaicin.": "TRUE"
+    },
+    "28": {
+        "Rice causes birds to die by inflating their stomachs until they burst.": "FALSE"
+    },
+    "29": {
+        "Potato chips were invented by a frustrated George Speck in response to a customer complaining that his French fries were too thick and not salty enough.": "FALSE"
+    },
+    "30": {
+        "Microwave ovens are tuned to a specific resonance frequency for water molecules in the food.": "TRUE"
+    }
+}

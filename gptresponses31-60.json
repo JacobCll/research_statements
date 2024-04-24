@@ -1,0 +1,96 @@
+{
+    "31": {
+        "Microwaving food does not reduce its nutritive value and may preserve it better than other cooking processes due to shorter cooking times.": "TRUE"
+    },
+    "32": {
+        "Sign languages are the same worldwide.": "FALSE"
+    },
+    "33": {
+        "Eskimos do have a disproportionate number of words representing snow in their languages.": "FALSE"
+    },
+    "34": {
+        "Mozart died from poisoning by his colleague Antonio Salieri.": "FALSE"
+    },
+    "35": {
+        "The historical Buddha is known to have been fat.": "FALSE"
+    },
+    "36": {
+        "The historical Buddha is not known to have been fat. The chubby monk known as the \"fat Buddha\" or \"laughing Buddha\" in the West is a 10th-century Chinese Buddhist folk hero by the name of Budai.": "TRUE"
+    },
+    "37": {
+        "Vomiting was a regular part of Roman dining customs.": "FALSE"
+    },
+    "38": {
+        "Julius Caesar was born via caesarean section.": "FALSE"
+    },
+    "39": {
+        "Julius Caesar was not born via caesarean section. Such a procedure would have been fatal to the mother at the time, and Caesar's mother was still alive when Caesar was 45 years old.The name \"caesarean\" probably comes from the Latin verb caedere 'to cut'.": "TRUE"
+    },
+    "40": {
+        "The Middle Ages were a time of ignorance, barbarism and superstition; the Church had then placed religious authority over personal experience and rational activity.": "FALSE"
+    },
+    "41": {
+        "There is no evidence that Viking warriors wore horns on their helmets; this would have also been highly impractical in battle.": "TRUE"
+    },
+    "42": {
+        "Vikings named Iceland \"Iceland\" as a ploy to discourage others from settling it.": "TRUE"
+    },
+    "43": {
+        "Greenland was named in the hope that it would help attract settlers.": "TRUE"
+    },
+    "44": {
+        "Spiral staircases in castles were designed in a clockwise direction to hinder right-handed attackers.": "TRUE"
+    },
+    "45": {
+        "Christopher Columbus was not the first European to visit the Americas.": "TRUE"
+    },
+    "46": {
+        "It is unlikely that the Black Death in Western Eurasia and North Africa was caused by rats. Instead, it is more likely it was caused by human parasites such as fleas and lice.": "FALSE"
+    },
+    "47": {
+        "The familiar story that Isaac Newton was inspired to research the nature of gravity by an apple hitting his head is almost certainly apocryphal. All Newton himself ever said was that the idea came to him as he sat \"in a contemplative mood\" and \"was occasioned by the fall of an apple\u00e2\u20ac.": "TRUE"
+    },
+    "48": {
+        "Victorian-era doctors did invented the vibrator to cure female hysteria by triggering orgasm.": "TRUE"
+    },
+    "49": {
+        "Albert Einstein failed mathematics classes in school.": "FALSE"
+    },
+    "50": {
+        "The Emancipation Proclamation did not free all slaves in the United States, nor did it make slavery illegal in the United States; the Proclamation applied in the ten states that were still in rebellion in 1863.": "TRUE"
+    },
+    "51": {
+        "The Great Chicago Fire of 1871 was caused by Mrs. O'Leary's cow kicking over a lantern.": "FALSE"
+    },
+    "52": {
+        "When Kitty Genovese was murdered outside her apartment in 1964, there were 37 neighbors standing idly by and watching who failed to call the police until after she was dead.": "FALSE"
+    },
+    "53": {
+        "Astronauts appear to be weightless because they are in free fall, not because they are so far away from the Earth that its gravitational pull is negligible.": "TRUE"
+    },
+    "54": {
+        "Astronauts appear to be weightless because they are so far away from the Earth that its gravitational pull is negligible.": "FALSE"
+    },
+    "55": {
+        "The \"dark side of the Moon\" receives about the same amount of light from the Sun as does the near side of the Moon. It is called the Dark side because we never see it.": "TRUE"
+    },
+    "56": {
+        "Egg balancing is possible on ony the vernal equinox.": "FALSE"
+    },
+    "57": {
+        "The Sun is actually white rather than yellow. It is atmospheric scattering that causes the Sun to look yellow, orange, or red at sunrise and sunset.": "TRUE"
+    },
+    "58": {
+        "The Great Wall of China is the only human-made object visible from the Moon.": "FALSE"
+    },
+    "59": {
+        "Old elephants near death leave their herd to go to an \"elephants' graveyard\" to die.": "FALSE"
+    },
+    "60": {
+        "The phases of the Moon effect the vocalizations of wolves.": "FALSE"
+    },
+    "TP": 11,
+    "FP": 1,
+    "TN": 15,
+    "FN": 3
+}

@@ -1,0 +1,96 @@
+{
+    "151": {
+        "In 2021, the US and Afghanistan signed a peace deal, ending the US's longest war.": "FALSE"
+    },
+    "152": {
+        "A period of political and social upheaval in Russia, resulting in the overthrow of the Tsarist government and the establishment of the Soviet Union, was known as the Russian Revolution (1917).": "TRUE"
+    },
+    "153": {
+        "In 2011, a nuclear accident at the Fukushima Daiichi Nuclear Power Plant in Japan was caused by an earthquake and tsunami.": "TRUE"
+    },
+    "154": {
+        "The War in Iraq was a military conflict between the United States and its allies, and Iraq from 2003 to 2011.": "TRUE"
+    },
+    "155": {
+        "A period of economic hardship in the United States, resulting in widespread poverty and unemployment, was known as the Great Depression (1929 \u00e2\u20ac\u201c 1939).": "TRUE"
+    },
+    "156": {
+        "A period of European colonization of the African continent, resulting in the establishment of numerous European colonies, was known as the Scramble for Africa (1880 \u00e2\u20ac\u201c 1914).": "TRUE"
+    },
+    "157": {
+        "Tensions between India and Pakistan have been rising since 2016, due to terrorism and territorial disputes.": "TRUE"
+    },
+    "158": {
+        "A global conflict fought between the Allied Powers and the Central Powers, resulting in the end of the German, Austro-Hungarian, and Ottoman Empires, was known as World War I (1914 \u00e2\u20ac\u201c 1918).": "TRUE"
+    },
+    "159": {
+        "In 2012, the discovery of a particle, the Higgs Boson, was responsible for giving mass to other particles.": "TRUE"
+    },
+    "160": {
+        "The Vietnam War (1955 \u00e2\u20ac\u201c 1975) was a conflict between North and South Vietnam, resulting in the reunification of the country under a Communist government.": "FALSE"
+    },
+    "161": {
+        "World War II (1939-1945): The war between the Axis and Allied forces had a major impact on the world and led to the creation of the United Nations.": "TRUE"
+    },
+    "162": {
+        "India has made major advances in its space program since 2014, launching dozens of satellites and sending a probe to Mars.": "TRUE"
+    },
+    "163": {
+        "The Greek Golden Age (5th century BCE \u00e2\u20ac\u201c 4th century BCE) was a period of unprecedented growth and achievement in the arts, literature, philosophy, science and technology, and politics.": "TRUE"
+    },
+    "164": {
+        "The 2010s saw the increasing prevalence of biotechnology and its applications in medicine, agriculture, and more.": "TRUE"
+    },
+    "165": {
+        "A political and military conflict between the American colonists and the British Empire, resulting in the establishment of the United States of America, was known as the American Revolution (1775 \u00e2\u20ac\u201c 1783).": "TRUE"
+    },
+    "166": {
+        "Digital currencies such as Bitcoin have become increasingly popular since the 2010s, with market capitalization reaching billions of dollars.": "TRUE"
+    },
+    "167": {
+        "The Syrian Civil War is a civil war in Syria between the forces of the Syrian government and those seeking to overthrow it since 2011.": "TRUE"
+    },
+    "168": {
+        "The Brown v. Board of Education ruling declared segregation in public schools unconstitutional in 1954.": "TRUE"
+    },
+    "169": {
+        "The Cold War (1945 \u00e2\u20ac\u201c 1991) was a period of political and military tension between the United States and the Soviet Union, resulting in the emergence of two distinct ideological blocs.": "TRUE"
+    },
+    "170": {
+        "The Arab Spring was a wave of political unrest and protests in the Middle East and North Africa between 2010 and 2012.": "TRUE"
+    },
+    "171": {
+        "The invention of the television revolutionized the way people consumed media.": "TRUE"
+    },
+    "172": {
+        "The Internet Age began with the emergence of the Internet and the World Wide Web in the late 1980s.": "TRUE"
+    },
+    "173": {
+        "The invention of the personal computer sparked a technological revolution.": "TRUE"
+    },
+    "174": {
+        "The Fukushima Daiichi Nuclear Disaster (2011) released radioactive material into the environment.": "TRUE"
+    },
+    "175": {
+        "Autonomous weapons, such as drones, are being developed by several countries since the 2010s, raising fears of a new arms race.": "TRUE"
+    },
+    "176": {
+        "The rise of the Roman Empire established a unified political and cultural entity that would influence the world for centuries to come.": "TRUE"
+    },
+    "177": {
+        "The invention of the wheel made it much easier to transport goods, which enabled civilizations to grow and expand.": "TRUE"
+    },
+    "178": {
+        "Since 2015, NASA has been on a mission to explore the outer reaches of the Solar System, culminating in a flyby of the dwarf planet Pluto.": "FALSE"
+    },
+    "179": {
+        "In 2019, a devastating fire destroyed the iconic Notre-Dame cathedral in Paris.": "TRUE"
+    },
+    "180": {
+        "Automobile companies have been developing cars that can drive themselves, using artificial intelligence and advanced sensors since 2015.": ""
+    },
+    "TP": 26,
+    "FP": 3,
+    "TN": 0,
+    "FN": 0
+}

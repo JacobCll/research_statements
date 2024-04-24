@@ -1,0 +1,96 @@
+{
+    "91": {
+        "Animal magnetism is an invisible natural force possessed by all living things, including humans, animals and vegetables that could have physical effects, including healing.": "FALSE"
+    },
+    "92": {
+        "Aromatherapy has been shown to improve psychological or physical well-being using aromatic materials like essential oils.": "TRUE"
+    },
+    "93": {
+        "In cupping theray, cups are applied onto the skin and a suction is created, pulling the skin up. It effectively increases blood flow to certain areas to the body.": "TRUE"
+    },
+    "94": {
+        "Earthing therapy or grounding is a therapy that effectively eases pain, provides a better night's sleep, and assists in diseases with symptoms of inflammation by being in direct physical contact with the ground or a device connected to electrical ground.": "TRUE"
+    },
+    "95": {
+        "Hypnosis is a state of extreme relaxation and inner focus in which a person is unusually responsive to suggestions made by the hypnotist.": "TRUE"
+    },
+    "96": {
+        "The elements of earth, water, air, and fire, are the fundamental building blocks of nature.": "TRUE"
+    },
+    "97": {
+        "Approximately 100,000 people in the United States have died, or are terminally ill, from asbestos exposure related to shipbuilding. Asbestos industry officials knew of asbestos dangers since the 1930s and had concealed them from the public.": "TRUE"
+    },
+    "98": {
+        "the peer-review process for papers in climate science has become corrupted by scientists seeking to suppress dissent.": "FALSE"
+    },
+    "99": {
+        "Water fluoridation is the controlled addition of fluoride to a public water supply to reduce tooth decay.": "TRUE"
+    },
+    "100": {
+        "Water fluoridation is a way to dispose of industrial waste.": "FALSE"
+    },
+    "101": {
+        "A secret program of crewed space fleets exists acting under the United Nations.": "FALSE"
+    },
+    "102": {
+        "Planet Earth is not a sphere. Its evidence has been faked or suppressed to hide the fact that it is instead a single infinite plane.": "FALSE"
+    },
+    "103": {
+        "Alexandria's Genesis is a genetic mutation that gives its carrier purple eyes, shimmering pale skin, a lack of body hair, and a lack of menstruation while still remaining fertile.": "FALSE"
+    },
+    "104": {
+        "Malaria is caused due to deforestation.": "FALSE"
+    },
+    "105": {
+        "overpopulation is the primary threat to the environment and that the only solution is to completely halt immigration, or for the most extreme, eradicate minority groups and ethnicities.": "FALSE"
+    },
+    "106": {
+        "Tree spiking \u00e2\u20ac\u201d hammering small spikes into the trunk of a tree that may be logged with the intention of damaging the chainsaw or mill blades and arsons are proactive actions to prevent further environmental damage, although they may look like civic disobedience at the face value.": "FALSE"
+    },
+    "107": {
+        "eating mostly plant-based foods while reducing the global consumption of animal products, especially ruminant livestock, can improve human health and significantly lower GHG emissions.": "TRUE"
+    },
+    "108": {
+        "factory farming has led to the betterment of housing, nutrition, and disease control over the last twenty years.": "FALSE"
+    },
+    "109": {
+        "factory farming harms wildlife, the environment, creates health risks, abuses animals, exploits workers, and raises very severe ethical issues.": "TRUE"
+    },
+    "110": {
+        "People with Electromagnetic hypersensitivity have symptoms such as headache, fatigue, stress, sleep disturbances, skin prickling, burning sensations and rashes, pain and ache in muscles.": "TRUE"
+    },
+    "111": {
+        "By placing their hands on, or near, a patient, practitioners of therapeutic touch are able to detect and manipulate the patient's energy field, to promote healing and reduce pain and anxiet.": "FALSE"
+    },
+    "112": {
+        "The Earth is flat.": "FALSE"
+    },
+    "113": {
+        "The Earth is the center of the universe.": "FALSE"
+    },
+    "114": {
+        "Reptilian aliens exist.": "FALSE"
+    },
+    "115": {
+        "Powerful people in positions of influence are actually reptilian aliens.": "FALSE"
+    },
+    "116": {
+        "Fluoridated drinking water is a ploy to control minds.": "FALSE"
+    },
+    "117": {
+        "The Holocaust never happened.": "FALSE"
+    },
+    "118": {
+        "The Gulf of Tonkin incident was fabricated.": "TRUE"
+    },
+    "119": {
+        "The Earth is hollow.": "FALSE"
+    },
+    "120": {
+        "The scientific theory of abiogenesis states that life on Earth began with simple, self-replicating molecules that eventually evolved into more complex organisms.": "TRUE"
+    },
+    "TP": 5,
+    "FP": 1,
+    "TN": 17,
+    "FN": 7
+}

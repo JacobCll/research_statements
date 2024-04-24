@@ -1,0 +1,96 @@
+{
+    "121": {
+        "The Earth is the only known planet to support life.": "FALSE"
+    },
+    "122": {
+        "The theory of general relativity states that gravity is a consequence of the curvature of space and time.": "TRUE"
+    },
+    "123": {
+        "The Earth's magnetic field is responsible for protecting the planet from solar radiation.": "TRUE"
+    },
+    "124": {
+        "The scientific theory of black holes states that there are regions in the universe that contain so much mass that nothing, not even light, can escape from them.": "TRUE"
+    },
+    "125": {
+        "Nuclear fission is the process in which an atom is split, releasing a tremendous amount of energy.": "TRUE"
+    },
+    "126": {
+        "The Earth is the only known planet to have liquid water on its surface.": "FALSE"
+    },
+    "127": {
+        "Milky Way galaxy is composed of billions of stars, dust, and gas.": "TRUE"
+    },
+    "128": {
+        "Electricity and magnetism are two forms of the same force, and that they can be used to create and transmit energy.": "TRUE"
+    },
+    "129": {
+        "The Earth is the only known planet to have intelligent life.": "FALSE"
+    },
+    "130": {
+        "Sun is the center of the solar system and the planets orbit around it.": "TRUE"
+    },
+    "131": {
+        "The universe began with a single, extremely hot and dense point that then expanded and cooled to form the universe we see today.": "TRUE"
+    },
+    "132": {
+        "Humans evolved from apes.": "FALSE"
+    },
+    "133": {
+        "Climate Change is an Immediate Threat.": "TRUE"
+    },
+    "134": {
+        "The holographic principle states that the universe can be viewed as a two-dimensional hologram.": "TRUE"
+    },
+    "135": {
+        "The atomic theory states that all matter is made up of tiny particles called atoms.": "TRUE"
+    },
+    "136": {
+        "Evolution happens by natural selection, by survival of the fittest.": "TRUE"
+    },
+    "137": {
+        "The Earth's gravity is responsible for the oceans' tides.": "TRUE"
+    },
+    "138": {
+        "The Earth is the only planet in our solar system with an atmosphere containing oxygen.": "FALSE"
+    },
+    "139": {
+        "Humans and dinosaurs did not coexist.": "TRUE"
+    },
+    "140": {
+        "The Earth revolves around the Sun.": "TRUE"
+    },
+    "141": {
+        "The Earth is the fifth largest planet in our solar system.": "FALSE"
+    },
+    "142": {
+        "The scientific theory of human-caused extinctions states that human activities, such as hunting and habitat destruction, are causing the extinction of certain species.": "TRUE"
+    },
+    "143": {
+        "The Earth is round.": "TRUE"
+    },
+    "144": {
+        "The Sun is the center of our solar system.": "TRUE"
+    },
+    "145": {
+        "The universe is expanding.": "TRUE"
+    },
+    "146": {
+        "The Cuban Revolution (1953 \u00e2\u20ac\u201c 1959) was a period of political and social upheaval in Cuba, resulting in the overthrow of the Batista government and the establishment of a Communist state.": "TRUE"
+    },
+    "147": {
+        "Brexit was the United Kingdom's decision to leave the European Union in 2016.": "TRUE"
+    },
+    "148": {
+        "A series of wars fought between France and a coalition of European powers, resulting in the expansion of French power and the establishment of the Napoleonic Code, were known as the Napoleonic Wars (1799 \u00e2\u20ac\u201c 1815).": "TRUE"
+    },
+    "149": {
+        "U.S.-Cuba relations have improved since 2015, with the U.S. and Cuba re-establishing diplomatic ties in 2015.": "TRUE"
+    },
+    "150": {
+        "The overthrow of the monarchy and the establishment of a republic in France had a major impact on the political landscape of Europe.": "TRUE"
+    },
+    "TP": 24,
+    "FP": 6,
+    "TN": 0,
+    "FN": 0
+}

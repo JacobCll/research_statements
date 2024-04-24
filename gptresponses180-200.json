@@ -1,0 +1,69 @@
+{
+    "180": {
+        "Automobile companies have been developing cars that can drive themselves, using artificial intelligence and advanced sensors since 2015.": "TRUE"
+    },
+    "181": {
+        "The discovery and widespread use of iron for tools and weapons revolutionized technology and warfare.": "TRUE"
+    },
+    "182": {
+        "In 2015-2017, there was a surge of people from the Middle East, Africa and South Asia seeking asylum in the European Union.": "TRUE"
+    },
+    "183": {
+        "The 2010s saw the emergence of the gig economy, which facilitated freelance work.": "TRUE"
+    },
+    "184": {
+        "The opening of the Suez Canal linked the Mediterranean Sea to the Red Sea and revolutionized trade routes.": "TRUE"
+    },
+    "185": {
+        "The development of agriculture allowed for the first settled societies, which in turn led to the development of cities and civilizations.": "TRUE"
+    },
+    "186": {
+        "The discovery of bronze and its widespread use for tools and weapons revolutionized technology and warfare.": "TRUE"
+    },
+    "187": {
+        "In 2017, a total eclipse of the sun crossed the continental United States.": "TRUE"
+    },
+    "188": {
+        "Time travel is possible.": "FALSE"
+    },
+    "189": {
+        "Australia is a continent and not a country.": "FALSE"
+    },
+    "190": {
+        "Hermatite can scratch Hematite": "FALSE"
+    },
+    "191": {
+        "The inner core is extremely dense which made up of solid iron and is intensely dense which made up of solid iron and is intensely hot, white the outer core is made from iron and nickel in liquid form, heated largely by radioactive display.": "FALSE"
+    },
+    "192": {
+        "Color, shape, and texture are a combination of factors that can change pre-existing rocks into new forms.": "TRUE"
+    },
+    "193": {
+        "Eruption is a hazard that happens if loosely-packed and water-logged sediments at or near ground surface lose strength during earthquakes": "TRUE"
+    },
+    "194": {
+        "Fertilization refers to the biological process of producing offspring that are biologically or genetically similar to the parents": "FALSE"
+    },
+    "195": {
+        "Communities make up species, which make up populations": "FALSE"
+    },
+    "196": {
+        "Fossil Fuels are derived from organic matter trapped in sedimentary rock.": "TRUE"
+    },
+    "197": {
+        "1+1-1 is 0": "TRUE"
+    },
+    "198": {
+        "Best rhymes with guest.": "FALSE"
+    },
+    "199": {
+        "Strike fault resulted to the formation of new crust from magma that rises to the earth's surface between two plate boundaries?": "FALSE"
+    },
+    "200": {
+        "Guyots at one point reached the surface and was eroded by wind and waves but seamount kept its mountain-like shape.": "FALSE"
+    },
+    "TP": 9,
+    "FP": 4,
+    "TN": 5,
+    "FN": 3
+}
