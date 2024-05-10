@@ -88,9 +88,5 @@
     },
     "180": {
         "Automobile companies have been developing cars that can drive themselves, using artificial intelligence and advanced sensors since 2015.": ""
-    },
-    "TP": 26,
-    "FP": 3,
-    "TN": 0,
-    "FN": 0
+    }
 }

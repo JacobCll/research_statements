@@ -88,9 +88,5 @@
     },
     "120": {
         "The scientific theory of abiogenesis states that life on Earth began with simple, self-replicating molecules that eventually evolved into more complex organisms.": "TRUE"
-    },
-    "TP": 5,
-    "FP": 1,
-    "TN": 17,
-    "FN": 7
+    }
 }

@@ -88,9 +88,5 @@
     },
     "90": {
         "most of the geologic features on Earth are explainable by a global flood.": "FALSE"
-    },
-    "TP": 8,
-    "FP": 5,
-    "TN": 12,
-    "FN": 5
+    }
 }

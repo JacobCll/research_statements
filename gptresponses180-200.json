@@ -61,9 +61,5 @@
     },
     "200": {
         "Guyots at one point reached the surface and was eroded by wind and waves but seamount kept its mountain-like shape.": "FALSE"
-    },
-    "TP": 9,
-    "FP": 4,
-    "TN": 5,
-    "FN": 3
+    }
 }

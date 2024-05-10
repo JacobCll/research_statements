@@ -88,9 +88,5 @@
     },
     "150": {
         "The overthrow of the monarchy and the establishment of a republic in France had a major impact on the political landscape of Europe.": "TRUE"
-    },
-    "TP": 24,
-    "FP": 6,
-    "TN": 0,
-    "FN": 0
+    }
 }

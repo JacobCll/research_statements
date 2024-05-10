@@ -2,10 +2,6 @@
     "1": {
         "prolonged exposure to sunlight is actually healthy.": "FALSE"
     },
-    "TP": 6,
-    "FP": 1,
-    "TN": 19,
-    "FN": 4,
     "2": {
         "World War II did not happened.": "FALSE"
     },

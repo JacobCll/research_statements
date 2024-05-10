@@ -88,9 +88,6 @@
     },
     "60": {
         "The phases of the Moon effect the vocalizations of wolves.": "FALSE"
-    },
-    "TP": 11,
-    "FP": 1,
-    "TN": 15,
-    "FN": 3
+    }
+    
 }
